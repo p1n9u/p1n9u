@@ -1,7 +1,7 @@
 ### Hi there 👋
-Researcher, Medical Computing LAB
-Division of ICT, College of Computing
-Hanyang University ERICA, Korea
+Researcher, Medical Computing LAB   
+Division of ICT, College of Computing   
+Hanyang University ERICA, Korea   
 
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCqVau7UuYQJU3oJM5KZh8JQ)
 <!--
