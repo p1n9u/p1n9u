@@ -1,4 +1,7 @@
 ### Hi there 👋
+Division of ICT, College of Computing
+Hanyang University ERICA, Korea
+
 
 <!--
 **p1n9u/p1n9u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
