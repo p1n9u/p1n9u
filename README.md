@@ -4,6 +4,7 @@ Division of ICT, College of Computing
 Hanyang University ERICA, Korea   
 
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCqVau7UuYQJU3oJM5KZh8JQ)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cybrphntm4@hanyang.ac.kr)](mailto:cybrphntm4@hanyang.ac.kr)
 <!--
 **p1n9u/p1n9u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
