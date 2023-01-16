@@ -3,13 +3,13 @@
 ### "p1n9u" [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fp1n9u&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Noot+Noot&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
-![HYU](https://cdn.discordapp.com/attachments/816971132812787712/1064400926766534786/HYU_logotype_blue_kor_eng.png)
+![HYU](https://cdn.discordapp.com/attachments/816971132812787712/1064400926766534786/HYU_logotype_blue_kor_eng.png)   
 [ 2022.09.01~ ]   
 Researcher, Medical Computing LAB   
 Division of ICT, College of Computing   
 Hanyang University ERICA, Korea   
    
-![RTT](https://cdn.discordapp.com/attachments/816971132812787712/1064400953870135356/logo.png)
+![RTT](https://cdn.discordapp.com/attachments/816971132812787712/1064400953870135356/logo.png)   
 [ 2023.01.16~ ]   
 Current in RealTimeTech   
 Researcher & Developer, Technical Research Institute   
