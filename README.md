@@ -2,10 +2,13 @@
 
 ### "p1n9u" [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fp1n9u&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Noot+Noot&edge_flat=false)](https://hits.seeyoufarm.com)
 
+---
+![HYU](https://media.discordapp.net/attachments/816971132812787712/1064399653270978642/IMG_4728.png)
 Researcher, Medical Computing LAB   
 Division of ICT, College of Computing   
 Hanyang University ERICA, Korea   
 
+![RTT](https://media.discordapp.net/attachments/816971132812787712/1064399653556199444/IMG_4729.png)
 Current in RealTimeTech   
 Researcher & Developer, Technical Research Institute   
 Spatial Information Convergence Team
