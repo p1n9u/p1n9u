@@ -8,7 +8,7 @@ Researcher, Medical Computing LAB
 Division of ICT, College of Computing   
 Hanyang University ERICA, Korea   
 
-![RTT](https://cdn.discordapp.com/attachments/816971132812787712/1064400953870135356/logo.png)
+![RTT](https://cdn.discordapp.com/attachments/816971132812787712/1064400953870135356/logo.png)   
 Current in RealTimeTech   
 Researcher & Developer, Technical Research Institute   
 Spatial Information Convergence Team
