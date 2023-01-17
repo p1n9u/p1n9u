@@ -4,14 +4,17 @@
 
 ---
 ![HYU](https://cdn.discordapp.com/attachments/816971132812787712/1064400926766534786/HYU_logotype_blue_kor_eng.png)   
+
 [ 2022.09.01 ~ ]   
 Researcher, Medical Computing LAB   
 Division of ICT, College of Computing   
 Hanyang University ERICA, Korea   
 
-Keywords : Cyber Physical Systems, Real-time Systems, IoT   
+Keywords : Cyber Physical Systems, Real-time Systems and IoT   
+   
    
 ![RTT](https://cdn.discordapp.com/attachments/816971132812787712/1064400953870135356/logo.png)   
+
 [ 2023.01.16 ~ ]   
 Current in RealTimeTech   
 Researcher, System Engineer, Technical Research Institute   
