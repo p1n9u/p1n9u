@@ -10,7 +10,7 @@ Researcher, Medical Computing LAB
 Division of ICT, College of Computing   
 Hanyang University ERICA, Korea   
 
-Keywords : Cyber Physical Systems, Real-time Systems and IoT   
+Keywords : Cyber Physical Systems, Real-time Systems, IoT and Smart healthcare      
    
    
 ![RTT](https://cdn.discordapp.com/attachments/816971132812787712/1064400953870135356/logo.png)   
