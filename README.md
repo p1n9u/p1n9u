@@ -12,7 +12,7 @@ Hanyang University ERICA, Korea
 ![RTT](https://cdn.discordapp.com/attachments/816971132812787712/1064400953870135356/logo.png)   
 [ 2023.01.16 ~ ]   
 Current in RealTimeTech   
-Researcher & Developer, Technical Research Institute   
+Researcher, System Engineer, Technical Research Institute   
 Spatial Information Convergence Team
 
 ---
