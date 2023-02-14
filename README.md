@@ -37,7 +37,7 @@ Spatial Information Convergence Team
 
 <h2 style="text-align: center"> Tech stack, Development Environment </h2>
 <center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1n9u&layout=compact&theme= )](https://github.com/metleeha) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1n9u&layout=compact&theme= )(https://github.com/metleeha) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Asm](https://cdn.discordapp.com/attachments/941406024810778694/993883016579535019/asm.png)   
