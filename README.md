@@ -6,7 +6,7 @@
 ![HYU](https://cdn.discordapp.com/attachments/816971132812787712/1064400926766534786/HYU_logotype_blue_kor_eng.png)   
 
 [ 2022.09.01 ~ ]   
-Researcher, Medical Computing LAB   
+Researcher, [Medical Computing LAB](https://mlab.hanyang.ac.kr/)   
 Division of ICT, College of Computing   
 Hanyang University ERICA, Korea   
 
