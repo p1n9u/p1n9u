@@ -16,7 +16,7 @@ Keywords : Cyber Physical Systems, Real-time Systems, IoT and Smart healthcare
 ![RTT](https://cdn.discordapp.com/attachments/816971132812787712/1064400953870135356/logo.png)   
 
 [ 2023.01.16 ~ ]   
-Current in RealTimeTech   
+Current in [RealTimeTech](http://www.realtimetech.co.kr/)     
 Researcher, System Engineer, Technical Research Institute   
 Spatial Information Convergence Team
 
