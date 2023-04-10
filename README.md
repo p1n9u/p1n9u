@@ -14,7 +14,7 @@
    <br>
    <p>
     [ 2022.09.01 ~ ] <br>
-    Researcher, <a href="https://mlab.hanyang.ac.kr/">Medical Computing LAB</a> <br>
+    Researcher, <a href="https://mlab.hanyang.ac.kr/">Medical Computing Lab</a> <br>
     Division of ICT, College of Computing <br>
     Hanyang University ERICA, Korea <br>
     Keywords : Cyber Physical Systems, Real-time Systems, IoT and Smart healthcare
