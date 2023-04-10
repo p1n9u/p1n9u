@@ -86,7 +86,8 @@
   
   <p>DBMS</p>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"> 
+  <img src="https://cdn.discordapp.com/attachments/941406024810778694/1094907214143172669/kairos.png"> <br>
   <br>
   
   <p>Libraries</p>
