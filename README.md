@@ -97,7 +97,7 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <br>
   <br>
   
-  <p>IDE</p>
+  <p>EDITORS/IDE</p>
   <img src="https://cdn.discordapp.com/attachments/941406024810778694/993879655281082498/nano.png">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"> 
