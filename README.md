@@ -70,7 +70,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1n9u&theme=blue-green"> <br>
   <br>
   
-  <p>Advanced C programmer</p>
+  <p>Advanced C programmer <br>
+    [<a href="https://www.kernel.org/doc/html/v4.10/process/coding-style.html">Coding Style</a>]
+  </p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
   <img src="https://cdn.discordapp.com/attachments/941406024810778694/993883016579535019/asm.png"> <br>
