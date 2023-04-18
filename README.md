@@ -66,10 +66,9 @@
  <div>
   Tech stack, Development Environment
  </div>
- <h5>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1n9u&theme=blue-green"> <br>
   <br>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1n9u&theme=blue-green"> <br>
+ <h4>
   <p>Advanced C programmer <br>
     [<a href="https://www.kernel.org/doc/html/v4.10/process/coding-style.html">Coding Style</a>]
   </p>
@@ -79,7 +78,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <br>
   <br>
-  
+ </h4>
+ <h5>
   <p>Tools^^</p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
