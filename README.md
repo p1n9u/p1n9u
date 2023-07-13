@@ -10,7 +10,7 @@
  <hr>
  <h5>
   <div>
-   <img src="https://cdn.discordapp.com/attachments/816971132812787712/1064400926766534786/HYU_logotype_blue_kor_eng.png"> <br>
+   <img src="https://cdn.discordapp.com/attachments/941406024810778694/1095164342976135198/HYU_logotype_blue_kor_eng.png"> <br>
    <br>
    <p>
     [ 2022.09.01 ~ ] <br>
@@ -24,7 +24,7 @@
   <br>
 
   <div>
-   <img src="https://cdn.discordapp.com/attachments/816971132812787712/1064400953870135356/logo.png"> <br>
+   <img src="https://cdn.discordapp.com/attachments/941406024810778694/1095164276274110464/logo.png"> <br>
    <br>
    <p>
     [ 2023.01.16 ~ ] <br>
