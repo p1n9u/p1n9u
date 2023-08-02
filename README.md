@@ -146,7 +146,6 @@
  </div>
  <h5>
   <img src="https://cdn.discordapp.com/attachments/941406024810778694/993878850008256532/nexon.png"> &nbsp; MapleStory <br>
-  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"> &nbsp; Apex Legends, Eternal Return <br>
  </h5>
 </h3>
 
