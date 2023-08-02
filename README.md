@@ -28,7 +28,8 @@
    <br>
    <p>
     [ 2023.01.16 ~ ] <br>
-    Researcher, System Engineer, Technical Research Institute <br>
+    Researcher, Technical Research Institute <br>
+    System SW Developer & Engineer <br>
     Spatial Information Convergence Team <br>
     Current in <a href="http://www.realtimetech.co.kr/">REALTIMETECH</a> Co.,Ltd <br>
    </p>
