@@ -86,11 +86,11 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <br>
   <img src="https://cdn.discordapp.com/attachments/941406024810778694/1153872454511497256/omg_gurumdds.png"> :
-  <a href="https://www.omg.org/dds-directory/vendor/GurumNetworks_Inc.html"> OMG DDS, GumrumNetworks DDS </a> <br>
+  <a href="https://www.omg.org/dds-directory/vendor/GurumNetworks_Inc.html"> OMG DDS : GumrumNetworks DDS </a> <br>
   <img src="https://cdn.discordapp.com/attachments/941406024810778694/1153874629702733885/net_snmp.png"> :
-  <a href="https://net-snmp.sourceforge.io/"> SNMP, Net-SNMP </a> <br>
+  <a href="https://net-snmp.sourceforge.io/"> SNMP : Net-SNMP </a> <br>
   <img src="https://cdn.discordapp.com/attachments/941406024810778694/1153876157641535579/oma_lwm2m.png"> :
-  <a href="https://lwm2m.openmobilealliance.org/"> OMA LwM2M Leshan, Wakaama  </a> <br>
+  <a href="https://lwm2m.openmobilealliance.org/"> OMA LwM2M : Leshan, Wakaama  </a> <br>
   <br>
   
   <p>DBMS</p>
