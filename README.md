@@ -39,9 +39,7 @@
 </h3>
 
 <h3>
- <div>
   Contact
- </div>
  <h5>
   <a href="https://www.instagram.com/p1n9u_love_sushi/">
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -64,15 +62,13 @@
 <hr>
 
 <h3>
- <div>
   Tech stack, Development Environment
- </div>
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1n9u&theme=blue-green"> <br>
  <h4>
-  <p>Advanced C programmer <br>
-    [<a href="https://www.kernel.org/doc/html/v4.10/process/coding-style.html">Coding Style</a>]
-  </p>
+  Advanced C programmer <br>
+  [<a href="https://www.kernel.org/doc/html/v4.10/process/coding-style.html">Coding Style</a>]
+  <br><br>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
   <img src="https://cdn.discordapp.com/attachments/941406024810778694/993883016579535019/asm.png"> <br>
@@ -81,44 +77,41 @@
   <br>
  </h4>
  <h5>
-  <p>Tools^^</p>
+  Tools^^ <br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <br>
-  <img src="https://cdn.discordapp.com/attachments/941406024810778694/1153872454511497256/omg_gurumdds.png"> -
+  <img src="https://cdn.discordapp.com/attachments/941406024810778694/1153872454511497256/omg_gurumdds.png">
   <a href="https://www.omg.org/dds-directory/vendor/GurumNetworks_Inc.html"> OMG DDS : GumrumNetworks DDS </a> <br>
-  <img src="https://cdn.discordapp.com/attachments/941406024810778694/1153874629702733885/net_snmp.png"> -
+  <img src="https://cdn.discordapp.com/attachments/941406024810778694/1153874629702733885/net_snmp.png">
   <a href="https://net-snmp.sourceforge.io/"> SNMP : Net-SNMP </a> <br>
-  <img src="https://cdn.discordapp.com/attachments/941406024810778694/1153876157641535579/oma_lwm2m.png"> -
+  <img src="https://cdn.discordapp.com/attachments/941406024810778694/1153876157641535579/oma_lwm2m.png">
   <a href="https://lwm2m.openmobilealliance.org/"> OMA LwM2M : Leshan, Wakaama  </a> <br>
   <br>
   
-  <p>DBMS</p>
+  DBMS <br><br>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"> 
   <img src="https://cdn.discordapp.com/attachments/941406024810778694/1094907214143172669/kairos.png"> <br>
-  <br>
   
-  <p>Libraries</p>
+  Libraries <br><br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <br>
   <br>
   
-  <p>EDITORS/IDE</p>
+  EDITORS/IDE <br><br>
   <img src="https://cdn.discordapp.com/attachments/941406024810778694/993879655281082498/nano.png">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <br>
-  <br>  
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <br> 
   
-  <p>Prototyping Platforms</p>
+  Prototyping Platforms <br><br>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> <br>
-  <br>
   
-  <p>Project Management</p>
+  Project Management <br><br>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
@@ -133,25 +126,10 @@
 <hr>
 
 <h3>
- <div>
   On Going Projects
- </div>
  <h5>
-  <p>
    Personal Workspace <br>
-   <a href="https://github.com/RTT-p1n9u">RTT-p1n9u</a>
-  </p>
- </h5>
-</h3>
-
-<hr>
-
-<h3>
- <div>
-  Current Playing Games
- </div>
- <h5>
-  <img src="https://cdn.discordapp.com/attachments/941406024810778694/993878850008256532/nexon.png"> &nbsp; MapleStory <br>
+   [<a href="https://github.com/RTT-p1n9u">RTT-p1n9u</a>]
  </h5>
 </h3>
 
