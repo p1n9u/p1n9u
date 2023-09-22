@@ -1,6 +1,6 @@
 # Dowon Kim
 
-### "[p1n9u](https://p1n9u.com/)" <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fp1n9u&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Noot+Noot&edge_flat=false"> 
+### [p1n9u](https://p1n9u.com/) <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fp1n9u&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Noot+Noot&edge_flat=false"> 
 <hr>
 <img src="https://cdn.discordapp.com/attachments/941406024810778694/1095164276274110464/logo.png">
 [ 2023.01.16 ~ ] <br>
