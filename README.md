@@ -20,18 +20,6 @@ Keywords : Cyber Physical Systems, Real-time Systems, IoT and Smart healthcare
 <a href="mailto:cybrphntm4@hanyang.ac.kr">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cybrphntm4@hanyang.ac.kr">
 </a>
-<a href="https://open.kakao.com/me/p1n9u">
-<img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000">
-</a>
-<a href="https://www.instagram.com/p1n9u_love_sushi/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://discord.gg/m72srmpY9H">
-<img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-<a href="https://www.youtube.com/@p1n9u">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-</a>
 
 ## Tech stack, Development Environment
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1n9u&theme=blue-green"> <br>
