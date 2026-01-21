@@ -2,7 +2,6 @@
 
 ### [p1n9u](https://p1n9u.com/) <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fp1n9u&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Noot+Noot&edge_flat=false"> 
 <hr>
-<img src="https://cdn.discordapp.com/attachments/941406024810778694/1095164276274110464/logo.png">
 [ 2023.01.16 ~ ] <br>
 Current in <a href="http://www.realtimetech.co.kr/">REALTIMETECH</a> Co.,Ltd <br>
 Researcher, Technical Research Institute <br>
@@ -10,7 +9,6 @@ System SW Developer & Engineer <br>
 Spatial Information Convergence Team <br>
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/941406024810778694/1095164342976135198/HYU_logotype_blue_kor_eng.png">
 [ 2022.09.01 ~ ] <br>
 Researcher, <a href="https://mlab.hanyang.ac.kr/">Medical Computing Lab</a> <br>
 Division of ICT, College of Computing <br>
