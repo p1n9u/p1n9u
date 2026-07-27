@@ -1,6 +1,7 @@
 # Dowon "p1n9u" Kim
 
 <hr>
+
 [ 2026.03.02 ~ ] <br>
 Current in <a href="https://www.coretrust.com/">CORETRUST</a>, Inc. <br>
 Associate Research Engineer, R&D Center <br>
@@ -13,11 +14,12 @@ System SW Developer & Engineer <br>
 Spatial Information Convergence Team <br>
 <br>
 
-[ 2022.09.01 ~ ] <br>
+[ 2022.09.01 ~ 2026.03.01 ] <br>
 Researcher, <a href="https://mlab.hanyang.ac.kr/">Medical Computing Lab</a> <br>
 Division of ICT, College of Computing <br>
 Hanyang University ERICA, Korea <br>
 Keywords : Cyber Physical Systems, Real-time Systems, IoT and Smart healthcare
+
 <hr>
 
 ## Contact
